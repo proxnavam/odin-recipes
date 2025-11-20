@@ -1,0 +1,1 @@
+This project is a practice exercise of the HTML knowledge I have acquired. I am going to build a basic recipe website. It will consist of a main index page, which will have links to a few recipes. The website will be basic. It will be revisited later to style it up with CSS.
